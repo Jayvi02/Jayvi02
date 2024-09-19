@@ -2,7 +2,8 @@
 - 😄 Pronouns: Sin/Cos
 - 👀 I’m interested in Game development and 3D modeling
 - 🌱 I’m currently learning Unreal engine, blender and some coding here and there
-- ⚡ Fun fact: There's nothing fun about me.. sadly
+- 🎨 A part-time digital artist
+- ⚡ Fun fact: There's nothing fun about me.. sadly 
 
 <!---
 Jayvi02/Jayvi02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
