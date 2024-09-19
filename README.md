@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jayvi02
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: Sin/Cos
 - 👀 I’m interested in Game development and 3D modeling
 - 🌱 I’m currently learning Unreal engine, blender and some coding here and there
 - ⚡ Fun fact: There's nothing fun about me.. sadly
