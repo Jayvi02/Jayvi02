@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jayvi02
+- 😄 Pronouns: He/Him
 - 👀 I’m interested in Game development and 3D modeling
 - 🌱 I’m currently learning Unreal engine, blender and some coding here and there
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: There's nothing fun about me.. sadly
 
 <!---
