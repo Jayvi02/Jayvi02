@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jayavi</h1>
+<h1 align="center">Hi &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/jayvi02/jayvi02/blob/main/icon/wave.gif" width="48"></a> , I'm Jayavi</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=9400D3&center=true&vCenter=true&width=435&lines=Gamer;Digital+Artist;3D-Modeler;Editor;" alt="Typing SVG" />
