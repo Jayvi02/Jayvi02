@@ -52,6 +52,7 @@
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jayvi02" />
   </a>
 </div>
+  
 <br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayvi02&theme=highcontrast&hide_border=true">
   <br><br>
