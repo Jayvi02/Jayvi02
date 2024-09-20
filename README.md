@@ -5,13 +5,16 @@
 
 </p>
 
-<h3 align="center">A passionate wannabe game designer from Sri Lanka. I’m an undergraduate at SLIIT, currently learning Blender and Unreal Engine to create immersive worlds. As a freelance digital artist on Fiverr and Upwork, I enjoy bringing creative ideas to life for clients</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jayvi02&label=Profile%20views&color=0e75b6&style=flat" alt="jayvi02" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jayvi02&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayvi02&theme=highcontrast" alt="jayvi02" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/jayavi02" target="blank"><img src="https://img.shields.io/twitter/follow/jayavi02?logo=twitter&style=for-the-badge" alt="jayavi02" /></a> </p>
+<br><h2 align="center">About Me 💀</h2>
+<h3 align="center">A passionate wannabe game designer from Sri Lanka. I’m an undergraduate at SLIIT, currently learning Blender and Unreal Engine to create immersive worlds. As a freelance digital artist on Fiverr and Upwork, I enjoy bringing creative ideas to life for clients</h3><br>
+
+<p align="center"> <a href="https://twitter.com/jayavi02" target="blank"><img src="https://img.shields.io/twitter/follow/jayavi02?logo=twitter&style=for-the-badge&color=yellow" alt="jayavi02" /></a> </p><br>
 
 - 😄 Pronouns: Sin/Cos
 
