@@ -45,7 +45,7 @@
 <h3 align="center"><b>Support me or you are gay🫵:</b></h3><br>
 <div align="center"><div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://www.buymeacoffee.com/jayavi" style="margin-right;">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jayavi" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Jayavi" />
   </a><div></div>
   <a href="https://ko-fi.com/jayvi02">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jayvi02" />
