@@ -51,14 +51,14 @@
   <a href="https://ko-fi.com/jayvi02">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jayvi02" />
   </a>
-</div>
-  
-<br>
+</div><br>
+ <img src="https://github-readme-stats.vercel.app/api?username=jayvi02&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Jay's GitHub stats"> &nbsp; &nbsp;  
+<br><br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayvi02&theme=highcontrast&hide_border=true">
   <br><br>
   
 
-<img src="https://github-readme-stats.vercel.app/api?username=jayvi02&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Jay's GitHub stats"> &nbsp; &nbsp; <img src="https://streak-stats.demolab.com/?user=jayvi02&hide_border=true&border_radius=15&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=jayvi02&hide_border=true&border_radius=15&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br><br>
   
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayvi02&custom_title=Jay's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true&" alt="GitHub Activity Graph" />
